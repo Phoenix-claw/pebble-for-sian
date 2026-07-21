@@ -4,6 +4,9 @@ Pebble is a small soft pixel-storybook Windows desktop companion, originally
 created as a gift. She wanders, naps, keeps a storybook, offers tiny quests, and
 grows through two evolutions over time.
 
+The **Soft Day DLC** adds a 100-letter Pebble Post, a no-pressure Soft Day
+mode, Mr Sack's replayable Star Pocket, and new memories and achievements.
+
 ## Download
 
 Use the [latest release](https://github.com/Phoenix-claw/pebble-for-sian/releases/latest).
