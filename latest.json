@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "title": "A Little More Room",
-  "notes": "Pebble found a little more room to roam. Extract the complete ZIP, keep every included file together, and let her show you the rest herself.",
+  "version": "1.2.1",
+  "title": "A Tiny Polish",
+  "notes": "Pebble tidied a few details behind the scenes. Existing memories and progress carry forward exactly where you left them.",
   "download_url": "https://github.com/Phoenix-claw/pebble-for-sian/releases/latest",
-  "asset_name": "Pebble-for-Sian-v1.2.0.zip",
-  "sha256": "2250dbc33701b69cb8b4506b96edafadc4abb07bc4484286a166373e5dbe8169",
+  "asset_name": "Pebble-for-Sian-v1.2.1.zip",
+  "sha256": "5b99e10789f3a559a1ce49d01bded7e69dd36497d207557e7f4c3d2d2024c0dc",
   "published": "2026-07-21"
 }
