@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "title": "A Small New Chapter",
-  "notes": "Pebble has been busy while you were away. Keep the whole folder together, open her storybook, and see where this goes.",
+  "version": "1.2.0",
+  "title": "A Little More Room",
+  "notes": "Pebble found a little more room to roam. Extract the complete ZIP, keep every included file together, and let her show you the rest herself.",
   "download_url": "https://github.com/Phoenix-claw/pebble-for-sian/releases/latest",
-  "asset_name": "Pebble-for-Sian-v1.1.0.zip",
-  "sha256": "ca1202f9b93cbdbfa6538522ff7a0d18172bcb87fff1746e868b411324f714de",
+  "asset_name": "Pebble-for-Sian-v1.2.0.zip",
+  "sha256": "2250dbc33701b69cb8b4506b96edafadc4abb07bc4484286a166373e5dbe8169",
   "published": "2026-07-21"
 }

@@ -9,7 +9,7 @@ time with her.
 Use the [latest release](https://github.com/Phoenix-claw/pebble-for-sian/releases/latest).
 
 Extract the complete ZIP, open the extracted folder, and run
-`Pebble for Sian.exe`. Keep the `_internal` folder beside the executable.
+`Pebble for Sian.exe`. Keep everything included in the extracted folder together.
 
 Pebble stores progress locally in `%APPDATA%\PebbleForSian`. Installing a newer
 version does not remove progress.
