@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1",
-  "title": "A Tiny Polish",
-  "notes": "Pebble tidied a few details behind the scenes. Existing memories and progress carry forward exactly where you left them.",
+  "version": "1.3.0",
+  "title": "A New Little Chapter",
+  "notes": "Pebble has been quietly preparing a new activity, a few things to discover, and one small remembered moment. Existing progress carries forward exactly where you left it.",
   "download_url": "https://github.com/Phoenix-claw/pebble-for-sian/releases/latest",
-  "asset_name": "Pebble-for-Sian-v1.2.1.zip",
-  "sha256": "5b99e10789f3a559a1ce49d01bded7e69dd36497d207557e7f4c3d2d2024c0dc",
-  "published": "2026-07-21"
+  "asset_name": "Pebble-for-Sian-v1.3.0.zip",
+  "sha256": "e4b0f8f9e5873b439d2903122f104080b4e7273dd3815728be79f1232542b897",
+  "published": "2026-07-22"
 }
