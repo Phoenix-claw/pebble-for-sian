@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "title": "Soft Day DLC",
-  "notes": "Pebble Post brings 100 unique daily letters, Soft Day mode asks nothing of you, and Mr Sack opens a replayable Star Pocket—with new memories and achievements.",
+  "title": "A Small New Chapter",
+  "notes": "Pebble has been busy while you were away. Keep the whole folder together, open her storybook, and see where this goes.",
   "download_url": "https://github.com/Phoenix-claw/pebble-for-sian/releases/latest",
   "asset_name": "Pebble-for-Sian-v1.1.0.zip",
-  "sha256": "eb1ad147388695131739f3affc44e9d52f3537abdf4e1283dbe4f2a3a1945133",
+  "sha256": "ca1202f9b93cbdbfa6538522ff7a0d18172bcb87fff1746e868b411324f714de",
   "published": "2026-07-21"
 }
