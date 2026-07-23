@@ -1,9 +1,9 @@
 {
-  "version": "1.3.0",
-  "title": "A New Little Chapter",
-  "notes": "Pebble has been quietly preparing a new activity, a few things to discover, and one small remembered moment. Existing progress carries forward exactly where you left it.",
+  "version": "1.4.0",
+  "title": "The Map Has Changed",
+  "notes": "Pebble found another corner of her world. There are new things to play, discover, remember, and wear, but some additions are better met without patch notes. Existing progress carries forward exactly where you left it.",
   "download_url": "https://github.com/Phoenix-claw/pebble-for-sian/releases/latest",
-  "asset_name": "Pebble-for-Sian-v1.3.0.zip",
-  "sha256": "e4b0f8f9e5873b439d2903122f104080b4e7273dd3815728be79f1232542b897",
-  "published": "2026-07-22"
+  "asset_name": "Pebble-for-Sian-v1.4.0.zip",
+  "sha256": "f7a29e800beb47545059339e7bf64f5917717e2a802fd7ca6b494e2ba0e69dc7",
+  "published": "2026-07-24"
 }
