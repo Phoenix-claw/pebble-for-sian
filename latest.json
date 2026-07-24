@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "title": "The Map Has Changed",
-  "notes": "Pebble found another corner of her world. There are new things to play, discover, remember, and wear, but some additions are better met without patch notes. Existing progress carries forward exactly where you left it.",
+  "version": "1.5.0",
+  "title": "A Little More Useful",
+  "notes": "Pebble has learned how to stay close when Windows is being strange. This chapter adds a careful new corner, stronger memory for important moments, and a few practical tricks. Everything is local, read-only, and waiting to be discovered. Existing progress carries forward exactly where you left it.",
   "download_url": "https://github.com/Phoenix-claw/pebble-for-sian/releases/latest",
-  "asset_name": "Pebble-for-Sian-v1.4.0.zip",
-  "sha256": "f7a29e800beb47545059339e7bf64f5917717e2a802fd7ca6b494e2ba0e69dc7",
-  "published": "2026-07-24"
+  "asset_name": "Pebble-for-Sian-v1.5.0.zip",
+  "sha256": "5221bf1db29513b5f6eaaa40bd6fe144567a7ad5c97e3a2b998bc29b0927bded",
+  "published": "2026-07-25"
 }
