@@ -1,9 +1,9 @@
 {
-  "version": "1.7.1",
-  "title": "Lawson's Milk Run",
-  "notes": "Pebble has found a whole new adventure. Lawson's Milk Run is now a four-act campaign with a world map, varied levels, shortcuts, secrets, and a proper finale. Clear every act to unlock Pebble's three-form Velocity Jacket. Existing progress carries forward, and completed campaign saves receive the costume automatically.",
+  "version": "1.8.0",
+  "title": "Pebble Comes to Life",
+  "notes": "Pebble moves now: she breathes, pads about near wherever you leave her, dozes when you step away, and has a mischievous streak. A small gift waits after her hello. Games and Settings have menus of their own, and the Workshop has retired. Your progress carries forward. Close the old Pebble first, then extract the whole ZIP.",
   "download_url": "https://github.com/Phoenix-claw/pebble-for-sian/releases/latest",
-  "asset_name": "Pebble-for-Sian-v1.7.1.zip",
-  "sha256": "4dbc20411d1eae05e075ade34ca2404da26660dcb98d3a8135af50a5711eea3a",
-  "published": "2026-08-17"
+  "asset_name": "Pebble-for-Sian-v1.8.0.zip",
+  "sha256": "b1687d15834065c68448566e3fa130294a80299c2ab113b953bd96ba4c83775e",
+  "published": "2026-10-13"
 }
