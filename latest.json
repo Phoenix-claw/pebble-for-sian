@@ -1,9 +1,9 @@
 {
-  "version": "1.8.0",
-  "title": "Pebble Comes to Life",
-  "notes": "Pebble moves now: she breathes, pads about near wherever you leave her, dozes when you step away, and has a mischievous streak. A small gift waits after her hello. Games and Settings have menus of their own, and the Workshop has retired. Your progress carries forward. Close the old Pebble first, then extract the whole ZIP.",
+  "version": "1.8.1",
+  "title": "The Music Fix",
+  "notes": "A fix for the Music menu: Pebble now finds the Spotify app, so play, pause and skip work. Close the old Pebble first, then extract the whole ZIP. Your progress carries forward. Once she's updated, tick Music > Dance along to Spotify to have her dance: it starts off this time, even if it was ticked before.",
   "download_url": "https://github.com/Phoenix-claw/pebble-for-sian/releases/latest",
-  "asset_name": "Pebble-for-Sian-v1.8.0.zip",
-  "sha256": "b1687d15834065c68448566e3fa130294a80299c2ab113b953bd96ba4c83775e",
-  "published": "2026-10-13"
+  "asset_name": "Pebble-for-Sian-v1.8.1.zip",
+  "sha256": "dd6f0b8da0c3810c77e75120c0fe1e6086a239b66e2330e4a8fac49c9eb6f3e4",
+  "published": "2026-10-25"
 }
